@@ -16,17 +16,4 @@ Welcome to the **Quiz Application**! This project is a simple yet engaging quiz 
 3. **Time Management**: Watch the countdown timer to ensure you answer in time.
 4. **View Results**: At the end of the quiz, see your total score and enjoy a fireworks animation if you answer all questions correctly.
 
-## 📸 Screenshots
 
-Here are some screenshots of the application:
-
-![Quiz Application Screenshot](https://example.com/screenshot.png)
-
-## 🔧 Installation
-
-To get started with this project, clone the repository and install the dependencies:
-
-```bash
-git clone https://github.com/yourusername/quiz-application.git
-cd quiz-application
-npm install
