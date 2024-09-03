@@ -16,4 +16,7 @@ Welcome to the **Quiz Application**! This project is a simple yet engaging quiz 
 3. **Time Management**: Watch the countdown timer to ensure you answer in time.
 4. **View Results**: At the end of the quiz, see your total score and enjoy a fireworks animation if you answer all questions correctly.
 
-
+## Technologies Used
+React: For building the user interface.
+Lottie: For integrating animations.
+CSS: For styling and responsive design.
