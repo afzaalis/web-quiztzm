@@ -1,0 +1,13 @@
+:root {
+  --primaryColor :#0097a7ff;
+  --secondaryColor:rgb(9,210,232);
+  --lightColor:#b8daff;
+  --whiteColor:#fff;
+}
+
+* {
+  justify-content: center;
+}
+body {
+  background-color: #0097a7ff;
+}
